@@ -1,0 +1,17 @@
+<!--/**
+*  The strings.xml file is a resource that contains an identifier for all
+*  strings utilized in the activity_main.xml file.
+*
+*  @author Joseph Traglia
+*
+*/-->
+<resources>
+    <string name="app_name">Score Keeper - JT</string>
+    <string name="tvAwayTeam">Away</string>
+    <string name="tvHomeTeam">Home</string>
+    <string name="btnAway">+1</string>
+    <string name="btnHome">+1</string>
+    <string name="tvAwayScore">0</string>
+    <string name="tvHomeScore">0</string>
+    <string name="tvHyphen">-</string>
+</resources>
